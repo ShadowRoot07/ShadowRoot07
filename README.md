@@ -19,6 +19,7 @@ If you are rewarding a Pull Request or sending a bounty, please use the followin
 - **Solana (SOL/USDC):** `0x1eC81B19778Ab82DD798E6611D59C57F23f0e6dA`
 - **Gitcoin ID:** ShadowRoot07
 - **Galxe Passport:** Verified
+- **Lightning:** agilecamera56@walletofsatoshi.com
 
 > *Note: Please ensure the network matches the asset before sending. For custom invoices or alternative payment methods, contact me via GitHub Issues.*
 
